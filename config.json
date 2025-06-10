@@ -1,0 +1,11 @@
+{
+    "train_video_dir": "data/pure/train",
+    "val_video_dir": "data/pure/val",
+    "batch_size": 4,
+    "learning_rate": 0.0001,
+    "epochs": 25,
+    "log_dir": "logs/rppg",
+    "checkpoint_dir": "checkpoints/rppg",
+    "log_interval": 10,
+    "output_size": 300
+}
